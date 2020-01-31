@@ -1,5 +1,5 @@
-class FirstProgramme(){
+public class FirstProgramme(){
 public static void main(String[] args){
-  System.out.println("hello from my new programme java");
+   System.out.println("hello from my new programme java");
   }
 }
